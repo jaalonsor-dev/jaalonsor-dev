@@ -23,6 +23,14 @@ Desarrollo de Software | Inteligencia Artificial | Automatización | Hardware
 
 ---
 
+### 🌍 Idiomas
+- 🇪🇸 Español (nativo)  
+- 🇬🇧 Inglés (alto)  
+- 🇵🇹 Portugués (comprensión)
+
+
+---
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java"/>
