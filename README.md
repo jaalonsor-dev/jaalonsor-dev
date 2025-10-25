@@ -14,7 +14,7 @@ Trabajando en equipos multidisciplinarios y desarrollando proyectos en distintos
 ---
 
 ### 🛠️ Habilidades
-🐍 Python | ☕ Java | 🗄️ SQL | 🔧 Git | 📝 Markdown | 💻 HTML | 🎨 Canva | 🧬 Machine Learning
+🐍 Python | ☕ Java | 🗄️ SQL | 🔧 Github | 📝 Markdown | 💻 HTML | 🎨 Canva | 🧬 Machine Learning
 
 ---
 
@@ -23,11 +23,11 @@ Desarrollo de Software | Inteligencia Artificial | Automatización | Hardware
 
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" title="Python"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Java_logo.png" width="50" title="Java"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/SQL_logo.svg" width="50" title="SQL"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Git_logo.svg" width="50" title="Git"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" width="50" title="Markdown"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" title="HTML"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Canva_Logo.png" width="50" title="Canva"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="50" title="Markdown"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML"/>
+  <img src="https://img.shields.io/badge/Canva-C-blue?style=for-the-badge&logo=canva" width="100" title="Canva"/>
 </p>
