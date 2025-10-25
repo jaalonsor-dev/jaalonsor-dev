@@ -4,7 +4,18 @@
 
 # Julian Alejandro Alonso Rondon 💻⚡🚀
 
-### Ingeniero de Sistemas en formación | Apasionado por la programación y la innovación tecnológica.
+<p align="center">
+  <table>
+    <tr>
+      <td align="left">
+        Hola, soy Ingeniero de Sistemas en formación | Apasionado por la programación y la innovación tecnológica
+      </td>
+      <td align="right">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg" width="20" title="Colombia"/>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
@@ -24,10 +35,9 @@ Desarrollo de Software | Inteligencia Artificial | Automatización | Hardware
 ---
 
 ### 🌍 Idiomas
-- 🇪🇸 Español (nativo)  
-- 🇬🇧 Inglés (alto)  
-- 🇵🇹 Portugués (comprensión)
-
+- <img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg" width="25" title="Español"/> Español (nativo)  
+- <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width="25" title="Inglés"/> Inglés (alto)  
+- <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" width="25" title="Portugués"/> Portugués (comprensión)
 
 ---
 
@@ -42,5 +52,6 @@ Desarrollo de Software | Inteligencia Artificial | Automatización | Hardware
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/e5/89/81/e589817c4b977a3a3c98a9a71e03bf08.jpg" width="700"/>
+  <img src="https://i.pinimg.com/1200x/e5/89/81/e589817c4b977a3a3c98a9a71e03bf08.jpg" width="500"/>
 </p>
+
