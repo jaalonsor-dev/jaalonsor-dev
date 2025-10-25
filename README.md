@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://e0.pxfuel.com/wallpapers/228/229/desktop-wallpaper-retro-pc-old-school.jpg" width="700"/>
+  <img src="https://e0.pxfuel.com/wallpapers/228/229/desktop-wallpaper-retro-pc-old-school.jpg" width="600"/>
 </p>
 
 # Julian Alejandro Alonso Rondon 💻⚡🚀
