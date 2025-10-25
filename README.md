@@ -21,8 +21,8 @@
 ---
 
 ### 💼 Experiencia
-Trabajando en equipos multidisciplinarios y desarrollando proyectos en distintos campos de la tecnología.  
-Tengo experiencia en diferentes campos y proyectos ejecutados para mejorar la vida de las personas , desde la planificación y diseño hasta la implementación, apreandiendo nuevas tecnologias y hablidades en el proceso.
+Trabajo en equipos multidisciplinarios y desarrollo proyectos en distintos campos de la tecnología.
+Tengo experiencia en diversos ámbitos y he ejecutado proyectos orientados a mejorar la vida de las personas, participando desde la planificación y el diseño hasta la implementación, aprendiendo nuevas tecnologías y habilidades en el proceso.
 
 ---
 
