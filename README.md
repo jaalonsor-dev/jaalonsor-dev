@@ -50,7 +50,7 @@ Me apasiona diseñar proyectos innovadores que combinan tecnología y creativida
 
 - <img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg" width="25" title="Español"/> Español (nativo)  
 - <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width="25" title="Inglés"/> Inglés (alto)  
-- <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" width="25" title="Portugués"/> Portugués (comprensión)
+
 
 ---
 
