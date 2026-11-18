@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/julian-alonso-rondon" target="_blank">
+  <a href="https://www.linkedin.com/in/julian-alejandro-alonso-rond%C3%B3n-617b72287/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:alexaner227@gmail.com">
@@ -80,8 +80,6 @@ Ingeniero de Sistemas con **más de 5 años de experiencia** liderando el desarr
 ---
 
 ### 📊 Estadísticas de GitHub
-
-> 💡 **Nota:** Reemplaza `TU_USUARIO_GITHUB` en las dos URLs de abajo por tu nombre de usuario exacto de GitHub para activar tus métricas en tiempo real.
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" />
