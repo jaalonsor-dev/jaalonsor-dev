@@ -23,7 +23,7 @@
 
 ### 👨‍💻 Sobre mí
 
-Ingeniero de Sistemas especializado en desarrollo backend, arquitectura de software, gestión de bases de datos, soluciones en la nube e integración de Inteligencia Artificial[cite: 1].
+Ingeniero de Sistemas especializado en desarrollo backend, arquitectura de software, gestión de bases de datos, soluciones en la nube e integración de Inteligencia Artificial.
 
 ---
 
